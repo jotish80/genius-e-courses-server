@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "name": "Trussardi",
+    "price": 99,
+    "img": "https://www.naima.it/media/catalog/product/T/R/TRUSSARDI_DONNA-Trussardi-8011530015039-01-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+  },
+  {
+    "id": "2",
+    "name": "Goirgo Armani",
+    "price": 105,
+    "img": "https://cdn.notinoimg.com/detail_zoom/armani/3360372054559_01-o/armani-acqua-di-gio-eau-de-toilette-da-donna___34.jpg"
+  },
+  {
+    "id": "3",
+    "name": "BurBerry",
+    "price": 89,
+    "img": "https://cdn.notinoimg.com/detail_zoom/burberry/3614226905666_01-o/burberry-burberry-for-women-eau-de-parfum-da-donna___29.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Dior",
+    "price": 79,
+    "img": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dwb85a8ec0/assets/Y0996445/Y0996445_C099600445_E01_ZHC.jpg?sw=870&sh=580&sm=fit&imwidth=870"
+  },
+  {
+    "id": "5",
+    "name": "Polo Sport",
+    "price": 110,
+    "img": "https://fimgs.net/mdimg/perfume/375x500.59650.jpg"
+  },
+  {
+    "id": "6",
+    "name": "CHANEL",
+    "price": 150,
+    "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/n-5-parfum-1fl-oz--packshot-default-120150-8833875542046.jpg"
+  }
+   
+]
