@@ -1,39 +1,45 @@
 [
   {
     "id": "1",
-    "name": "Trussardi",
+    "name": "EXPRESS JS",
     "price": 99,
-    "img": "https://www.naima.it/media/catalog/product/T/R/TRUSSARDI_DONNA-Trussardi-8011530015039-01-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    "description":"Mern stack developer should learn EXPRESS js.",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png"
   },
   {
     "id": "2",
-    "name": "Goirgo Armani",
-    "price": 105,
-    "img": "https://cdn.notinoimg.com/detail_zoom/armani/3360372054559_01-o/armani-acqua-di-gio-eau-de-toilette-da-donna___34.jpg"
+    "name": "NODE JS",
+    "price": 99,
+    "description":" Developer should learn node js. Server side optimize the code.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
   },
   {
     "id": "3",
-    "name": "BurBerry",
+    "name": "GO",
     "price": 89,
-    "img": "https://cdn.notinoimg.com/detail_zoom/burberry/3614226905666_01-o/burberry-burberry-for-women-eau-de-parfum-da-donna___29.jpg"
+    "description":"Recent statistic shows GO is the popular language.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/800px-Go_Logo_Blue.svg.png"
   },
   {
     "id": "4",
-    "name": "Dior",
+    "name": "PYTHON",
     "price": 79,
-    "img": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dwb85a8ec0/assets/Y0996445/Y0996445_C099600445_E01_ZHC.jpg?sw=870&sh=580&sm=fit&imwidth=870"
+    "description":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+    "img": "https://www.datocms-assets.com/14946/1590686329-python-analytics-cover.png?auto=format&fit=max&w=1200"
   },
   {
     "id": "5",
-    "name": "Polo Sport",
-    "price": 110,
-    "img": "https://fimgs.net/mdimg/perfume/375x500.59650.jpg"
+    "name": "TAILWIND CSS",
+    "price": 100,
+    "description":"A utility-first CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 that can be composed to build any design, directly in your markup",    
+    "img": "https://assets.website-files.com/5e0f1144930a8bc8aace526c/609d5d0a4482a030a98678e5_6081a1047d19b822c0899c1d_DailyDotDevFrame2x.jpg"
   },
   {
     "id": "6",
-    "name": "CHANEL",
-    "price": 150,
-    "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/n-5-parfum-1fl-oz--packshot-default-120150-8833875542046.jpg"
+    "name": "REACT",
+    "price": 99,
+    "description":"RReact is a JavaScript library created by Facebook. React is a User Interface (UI) library. React is a tool for building UI components.",
+    "img": "https://www.scnsoft.com/blog-pictures/cover-pics/react_js.png"
   }
    
 ]
