@@ -27,7 +27,7 @@ app.get('/courses/:id', (req,res) =>{
 
 })
  
-// 
+// Listening to the port
 app.listen(port, ()=>{
     console.log('genius course server is running on port', port)
 })
