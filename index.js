@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors');
 app.use(cors());
 
-// port
+//  Port on 5000 
 const port = process.env.PORT || 5000;
 
 // added json data
